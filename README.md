@@ -1,3 +1,4 @@
+
 # Expense Tracker website
 
 This folder contains the complete static website: a homepage, privacy policy, support page, and shared stylesheet. It can be hosted on GitHub Pages or any static web host. It does not depend on a framework, build step, or third-party fonts.
